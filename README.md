@@ -39,7 +39,7 @@ Hey!
 
 # Screenshots
  ## Bspwm
-![Desktop.png](Desktop.png)
+![rice-lap.png](rice-lap.png)
 
 ```
 ## Keybindings
